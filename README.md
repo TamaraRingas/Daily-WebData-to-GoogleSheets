@@ -8,7 +8,7 @@ Log into your Google account & create a Google Sheet.
 
 Go to `Extensions` => ` AppScript`.
 
-Paste the `code.gs` file contents into the `code.gs` file in the Google-App-Script editor. 
+Paste the `code.gs` file contents in this repo into the `code.gs` file in the Google-App-Script editor. 
 
 Replace all variables between the `*** ***` characters with your own parameters. 
 
